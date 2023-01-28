@@ -1,0 +1,19 @@
+{
+  "name": "banco-de-codigo-drink-drink",
+  "version": "1.0.0",
+  "description": "Codigo libre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkamvs/banco-de-codigo-drink-drink.git"
+  },
+  "author": "Drink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkamvs/banco-de-codigo-drink-drink/issues"
+  },
+  "homepage": "https://github.com/jkamvs/banco-de-codigo-drink-drink#readme"
+}
